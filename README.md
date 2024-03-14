@@ -1,6 +1,7 @@
 # Data Analysis and Visualization
 
 ## Overview
+
 This Jupyter notebook provides a comprehensive exploration of financial data analysis and visualization techniques. It incorporates a variety of Python libraries to manipulate, analyze, and visualize data effectively. The notebook is structured to guide users through the process of data preparation, analysis, and the application of statistical models.
 
 ## Key Features
@@ -10,6 +11,7 @@ This Jupyter notebook provides a comprehensive exploration of financial data ana
 - **Statistical Analysis**: Employs statistical tools to analyze the normality of data distributions and to fit models for predictive analysis.
 
 ## Libraries Used
+
 - NumPy
 - Matplotlib
 - Pandas
@@ -38,7 +40,3 @@ pip install numpy matplotlib pandas MetaTrader5 DateTime scikit-learn statsmodel
 ## Contributions
 
 Contributions to this notebook are welcome. Please ensure to follow best practices for code quality and consistency.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
